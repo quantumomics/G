@@ -12,7 +12,11 @@ G<sub>Style</sub> = x<sup>y</sup>
   - Non-Robotics
  
 - Style
-  - Array
-  - Cluster
-  - Matrix
-  - Quad
+
+1. Array, where x<sup>y</sup>, if x = 4, y = n => m
+
+2. Cluster, where x<sup>y</sup>, if x = 4, y = n => m
+
+3. Matrix, where x<sup>y</sup>, if x = 9, y = 
+
+4. Quad, where x<sup>y</sup>, if x = 4, y = 4 => 16
