@@ -13,10 +13,10 @@ G<sub>Style</sub> = x<sup>y</sup>
  
 - Style
 
-1. Array, where x<sup>y</sup>, if x = 4, y = n => m
+1. Array, where x<sup>y</sup>, if x = j, y = k => m
 
-2. Cluster, where x<sup>y</sup>, if x = 4, y = n => m
+2. Cluster, where x<sup>y</sup>, if x = 9, y = 4 => 6561
 
-3. Matrix, where x<sup>y</sup>, if x = 9, y = 
+3. Matrix, where x<sup>y</sup>, if x = 4, y = 4 => 256
 
-4. Quad, where x<sup>y</sup>, if x = 4, y = 4 => 16
+4. Quad, where x<sup>y</sup>, if x = 4, y = 2 => 16
