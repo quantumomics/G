@@ -21,7 +21,7 @@ G<sub>Style</sub> = x<sup>y</sup>
 
 4. Quad, where x<sup>y</sup>, if x = 4, y = 2 => 16
 
-### Quad
+### [1.] Quad
 Quad is a spun-off engineering of the Sequomics, Inc. and to deal with operational molecular sciences. Quad is a base style of non-robotics based molecule storage facility, equipped with () intelligent molecular storage environment. Quad is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. Quad is assembled for personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
 Storage Formula = () × () => Samples.
@@ -31,3 +31,18 @@ Storage Formula = () × () => Samples.
     9, it is 144.
 
 Quad is a best possible friend for a personal use, right.
+
+### [2.] Matrix
+If 1, it is 256,
+   2, it is 512,
+   4, it is 1024,
+   9, it is 2304.
+   
+### [3.] Cluster
+If 1, it is 6561,
+   2, it is 13,122,
+   4, it is 26,244,
+   9, it is 59,049.
+
+### [4.] Array
+If 1, it is — please let me explain.
