@@ -32,7 +32,7 @@ Storage Formula = () × () => Samples.
 
 Quad is a best possible friend for a personal use, right.
 
-### [2.] Matrix
+## [2.] G<sub><sup>Matrix</sup></sub>
 If 1, it is 256,
    2, it is 512,
    4, it is 1024,
