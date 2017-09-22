@@ -38,11 +38,11 @@ If 1, it is 256,
    4, it is 1024,
    9, it is 2304.
    
-### [3.] Cluster
+## [3.] G<sub><sup>Cluster</sup></sub>
 If 1, it is 6561,
    2, it is 13,122,
    4, it is 26,244,
    9, it is 59,049.
 
-### [4.] Array
+## [4.] G<sub><sup>Array</sup></sub>
 If 1, it is — please let me explain.
