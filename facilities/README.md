@@ -50,8 +50,9 @@ ElseIf <b><i>n</i></b> = 9, Then 256 × 9 = 2304 units</br>
 
 ## [3.] G<sub><sup>Cluster</sup></sub>
 
-Storage Formula = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Samples.</br>
-
+<b>Defined:</b></br>
+Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Molecules.</br>
+Storage function = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Molecules.</br>
 <i>where</i>, <b><i>n</i></b> = 1, 2, 4, 9.
 
 If <b><i>n</i></b> = 1; Then 6561 × 1 = 6,561 units</br>
