@@ -3,7 +3,7 @@
 
 <b>Define Equation:</b> In G<sup>®</sup>, the equation is constrained to absolute, itself.
 
-## G<sup><sub>Style</sub></sup> = x<sup><i>y</i></sup>
+## G<sub><sup>Style</sup></sub> = x<sup><i>y</i></sup>
 
 - Class
   - Robotics
