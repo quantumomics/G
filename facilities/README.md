@@ -28,7 +28,7 @@ Storage Formula = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b
                               |                                 |</br>
 Storage Formula = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Samples.</br>
 
-Where, <b><i>n</i></b> = 1, 2, 4, 9.
+<i>where</i>, <b><i>n</i></b> = 1, 2, 4, 9.
 
 If <b><i>n</i></b> = 1; Then 16 × 1 = 16 units</br>
 ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32 units</br>
@@ -41,7 +41,7 @@ ElseIf <b><i>n</i></b> = 9, Then 16 × 9 = 144 units</br>
 
 Storage Formula = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Samples.</br>
 
-Where, <b><i>n</i></b> = 1, 2, 4, 9.
+<i>where</i>, <b><i>n</i></b> = 1, 2, 4, 9.
 
 If <b><i>n</i></b> = 1; Then 256 × 1 = 256 units</br>
 ElseIf <b><i>n</i></b> = 2, Then 256 × 2 = 512 units</br>
@@ -54,7 +54,7 @@ ElseIf <b><i>n</i></b> = 9, Then 256 × 9 = 2304 units</br>
 
 Storage Formula = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Samples.</br>
 
-Where, <b><i>n</i></b> = 1, 2, 4, 9.
+<i>where</i>, <b><i>n</i></b> = 1, 2, 4, 9.
 
 If <b><i>n</i></b> = 1; Then 6561 × 1 = 6,561 units</br>
 ElseIf <b><i>n</i></b> = 2, Then 6561 × 2 = 13,122 units</br>
