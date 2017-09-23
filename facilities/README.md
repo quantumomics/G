@@ -23,9 +23,9 @@
 Quad is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. Quad is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. Quad is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. Quad is assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
 <b>Defined:</b></br>
-Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Samples.</br>
+Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Molecules.</br>
 
-Storage function = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Samples.</br>
+Storage function = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Molecules.</br>
 
 <i>where</i>, <b><i>n</i></b> = 1, 2, 4, 9.
 
@@ -34,7 +34,7 @@ ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 16 × 4 = 64 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 16 × 9 = 144 units</br>
 
-<b><i>Quad</b></i> gives minimum 16 and maximum 144 units of sample storage. <i>Quad is a best possible friend for a personal use, right</i>.
+<b><i>Quad</b></i> gives minimum 16 and maximum 144 units of molecules storage. <i>Quad is a best possible friend for a personal use, right</i>.
 
 ## [2.] G<sub><sup>Matrix</sup></sub>
 
@@ -47,7 +47,7 @@ ElseIf <b><i>n</i></b> = 2, Then 256 × 2 = 512 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 256 × 4 = 1024 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 256 × 9 = 2304 units</br>
 
-<b><i>Matrix</b></i> gives minimum 256 and maximum 2,304 units of sample storage. <i>Matrix is a best possible friend for a personal and scientific use, right</i>.
+<b><i>Matrix</b></i> gives minimum 256 and maximum 2,304 units of molecules storage. <i>Matrix is a best possible friend for a personal and scientific use, right</i>.
 
 ## [3.] G<sub><sup>Cluster</sup></sub>
 
@@ -60,7 +60,7 @@ ElseIf <b><i>n</i></b> = 2, Then 6561 × 2 = 13,122 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 6561 × 4 = 26,244 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 6561 × 9 = 59,049 units</br>
 
-<b><i>Cluster</b></i> gives minimum 6,561 and maximum 59,049 units of sample storage. <i>Cluster is a best possible friend for an advance scientific use, right</i>.
+<b><i>Cluster</b></i> gives minimum 6,561 and maximum 59,049 units of molecules storage. <i>Cluster is a best possible friend for an advance scientific use, right</i>.
 
 ## [4.] G<sub><sup>Array</sup></sub>
 If 1, it is — please let me explain.
