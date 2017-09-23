@@ -50,7 +50,7 @@ ElseIf <b><i>n</i></b> = 9, Then 256 × 9 = 2304 units</br>
 <b><i>G<sub><sup>Matrix</sup></sub></b></i> gives minimum 256 and maximum 2,304 units of molecules storage. <i>G<sub><sup>Matrix</sup></sub> is a best possible friend for a personal and scientific use, right</i>.
 
 ## [3.] G<sub><sup>Cluster</sup></sub>
-Cluster is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. Cluster is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. Cluster is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. Cluster is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
+G<sub><sup>Cluster</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Cluster</sup></sub> is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Cluster</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Cluster</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
 <b>Defined:</b></br>
 Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Molecules.</br>
@@ -62,9 +62,9 @@ ElseIf <b><i>n</i></b> = 2, Then 6561 × 2 = 13,122 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 6561 × 4 = 26,244 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 6561 × 9 = 59,049 units</br>
 
-<b><i>Cluster</b></i> gives minimum 6,561 and maximum 59,049 units of molecules storage. <i>Cluster is a best possible friend for an advance scientific use, right</i>.
+<b><i>G<sub><sup>Cluster</sup></sub></b></i> gives minimum 6,561 and maximum 59,049 units of molecules storage. <i>G<sub><sup>Cluster</sup></sub> is a best possible friend for an advance scientific use, right</i>.
 
 ## [4.] G<sub><sup>Array</sup></sub>
-Array is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. Array is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. Array is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. Array is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
+G<sub><sup>Array</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Array</sup></sub> is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Array</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Array</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
 If 1, it is — please let me explain.
