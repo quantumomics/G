@@ -28,14 +28,12 @@ Storage Formula = (<b>x<sup><i>y</i></sup></b>) × (n) => Samples.
 
 Where, <b><i>n</i></b> = 1, 2, 4, 9.
 
- If <b><i>n</i></b> = 1; Then 16 × 1 = 16,</br>
- ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32,</br>
- 
-    2, it is 32,
-    4, it is 64,
-    9, it is 144.
+If <b><i>n</i></b> = 1; Then 16 × 1 = 16,</br>
+ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32,</br>
+ElseIf <b><i>n</i></b> = 4, Then 16 × 2 = 64,</br>
+ElseIf <b><i>n</i></b> = 9, Then 16 × 2 = 144,</br>
 
-Quad is a best possible friend for a personal use, right.
+<i>Quad is a best possible friend for a personal use, right</i>.
 
 ## [2.] G<sub><sup>Matrix</sup></sub>
 If 1, it is 256,
