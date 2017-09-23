@@ -50,11 +50,6 @@ ElseIf <b><i>n</i></b> = 9, Then 256 × 9 = 2304 units</br>
 
 Matrix gives minimum 256 and maximum 2304 units of sample storage. <i>Matrix is a best possible friend for a personal and scientific use, right</i>.
 
-If 1, it is 256,
-   2, it is 512,
-   4, it is 1024,
-   9, it is 2304.
-   
 ## [3.] G<sub><sup>Cluster</sup></sub>
 
 Storage Formula = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Samples.</br>
@@ -66,12 +61,7 @@ ElseIf <b><i>n</i></b> = 2, Then 6561 × 2 = 13,122 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 6561 × 4 = 26,244 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 6561 × 9 = 59,049 units</br>
 
-Cluster gives minimum 6,561 and maximum 59,049 units of sample storage. <i>Cluster is a best possible friend for a personal use, right</i>.
-
-If 1, it is 6561,
-   2, it is 13,122,
-   4, it is 26,244,
-   9, it is 59,049.
+Cluster gives minimum 6,561 and maximum 59,049 units of sample storage. <i>Cluster is a best possible friend for an advance scientific use, right</i>.
 
 ## [4.] G<sub><sup>Array</sup></sub>
 If 1, it is — please let me explain.
