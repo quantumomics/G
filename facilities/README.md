@@ -35,7 +35,7 @@ ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 16 × 4 = 64 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 16 × 9 = 144 units</br>
 
-<i>Quad is a best possible friend for a personal use, right</i>.
+Quad gives minimum 16 and maximum 144 units of sample storage. <i>Quad is a best possible friend for a personal use, right</i>.
 
 ## [2.] G<sub><sup>Matrix</sup></sub>
 
@@ -48,7 +48,7 @@ ElseIf <b><i>n</i></b> = 2, Then 256 × 2 = 512 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 256 × 4 = 1024 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 256 × 9 = 2304 units</br>
 
-<i>Matrix is a best possible friend for a personal and scientific use, right</i>.
+Matrix gives minimum 256 and maximum 2304 units of sample storage. <i>Matrix is a best possible friend for a personal and scientific use, right</i>.
 
 If 1, it is 256,
    2, it is 512,
@@ -61,12 +61,12 @@ Storage Formula = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b
 
 Where, <b><i>n</i></b> = 1, 2, 4, 9.
 
-If <b><i>n</i></b> = 1; Then 6561 × 1 = 16 units</br>
+If <b><i>n</i></b> = 1; Then 6561 × 1 = 6,561 units</br>
 ElseIf <b><i>n</i></b> = 2, Then 6561 × 2 = 13,122 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 6561 × 4 = 26,244 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 6561 × 9 = 59,049 units</br>
 
-<i>Quad is a best possible friend for a personal use, right</i>.
+Cluster gives minimum 6,561 and maximum 59,049 units of sample storage. <i>Cluster is a best possible friend for a personal use, right</i>.
 
 If 1, it is 6561,
    2, it is 13,122,
