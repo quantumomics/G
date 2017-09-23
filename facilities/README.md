@@ -1,11 +1,9 @@
 # G<sup>®</sup> — Facilities
-G<sup>®</sup> is a molecule storage facility, that build up for read/write and store easily for the future experimental science.
-
-G<sup>®</sup> have two class(s), and four style(s) of the storage facilities.
+<b>G<sup>®</sup> — is a molecule storage facility, that build up for read/write and store easily for the future experimental science</b>. G<sup>®</sup> have two class(s), and four style(s) of the personal and scientific storage facilities.
 
 <b>Define Equation:</b> In G®, the equation is constrained to absolute, itself.
 
-G<sub>Style</sub> = x<sup>y</sup>
+## G<sub>Style</sub> = x<sup><i>y</i></sup>
 
 - Class
   - Robotics
