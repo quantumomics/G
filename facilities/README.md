@@ -22,7 +22,7 @@ G<sub>Style</sub> = x<sup>y</sup>
 4. Quad, where x<sup>y</sup>, if x = 4, y = 2 => 16
 
 ## [1.] G<sub><sup>Quad</sup></sub>
-Quad is a spun-off engineering of the Sequomics, Inc. and to deal with operational molecular sciences. Quad is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. Quad is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. Quad is assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
+Quad is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. Quad is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. Quad is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. Quad is assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
 Storage Formula = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Samples.</br>
                               |                                 |</br>
