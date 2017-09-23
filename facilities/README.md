@@ -28,10 +28,10 @@ Storage Formula = (<b>x<sup><i>y</i></sup></b>) × (n) => Samples.
 
 Where, <b><i>n</i></b> = 1, 2, 4, 9.
 
-If <b><i>n</i></b> = 1; Then 16 × 1 = 16,</br>
-ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32,</br>
-ElseIf <b><i>n</i></b> = 4, Then 16 × 2 = 64,</br>
-ElseIf <b><i>n</i></b> = 9, Then 16 × 2 = 144,</br>
+If <b><i>n</i></b> = 1; Then 16 × 1 = 16 units</br>
+ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32 units</br>
+ElseIf <b><i>n</i></b> = 4, Then 16 × 4 = 64 units</br>
+ElseIf <b><i>n</i></b> = 9, Then 16 × 9 = 144 units</br>
 
 <i>Quad is a best possible friend for a personal use, right</i>.
 
