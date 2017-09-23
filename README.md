@@ -1,2 +1,2 @@
 # G<sup>®</sup>
-G® — A Next Generation Molecular Storage Environment
+<b>G<sup>®</sup> — <i>A Next Generation Molecular Storage Environment</i></b>.
