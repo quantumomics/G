@@ -28,7 +28,9 @@ Storage Formula = (<b>x<sup><i>y</i></sup></b>) × (n) => Samples.
 
 Where, <b><i>n</i></b> = 1, 2, 4, 9.
 
- If 1, it is 16,
+ If <b><i>n</i></b> = 1; Then 16 × 1 = 16,</br>
+ ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32,</br>
+ 
     2, it is 32,
     4, it is 64,
     9, it is 144.
