@@ -24,9 +24,7 @@ Quad is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. 
 
 <b>Defined:</b></br>
 Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Molecules.</br>
-
 Storage function = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Molecules.</br>
-
 <i>where</i>, <b><i>n</i></b> = 1, 2, 4, 9.
 
 If <b><i>n</i></b> = 1; Then 16 × 1 = 16 units</br>
