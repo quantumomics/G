@@ -1,15 +1,15 @@
 # G<sup>®</sup> — Facilities
 <b>G<sup>®</sup> — is a molecule storage facility, that build up for read/write and store easily for the future experimental science</b>. G<sup>®</sup> have two class(s), and four style(s) of the personal and scientific storage facilities.
 
-<b>Define Equation:</b> In G®, the equation is constrained to absolute, itself.
+<b>Define Equation:</b> In G<sup>®</sup>, the equation is constrained to absolute, itself.
 
-## G<sub>Style</sub> = x<sup><i>y</i></sup>
+## G<sup>®</sup><sub>Style</sub> = x<sup><i>y</i></sup>
 
 - Class
   - Robotics
   - Non-Robotics
  
-- Style — G have four style of design, to provide smart way to build the perfect future of experimental science.
+- Style — G<sup>®</sup> have four style of design, to provide smart way to build the perfect future of experimental science.
 
 1. Quad, where x<sup><i>y</i></sup>, if x = 4, <i>y</i> = 2 => 16
 
