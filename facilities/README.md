@@ -13,13 +13,13 @@ G<sub>Style</sub> = x<sup>y</sup>
  
 - Style — G have four style of design, to provide smart way to build the perfect future of experimental science.
 
-1. Quad, where x<sup><i>y</i></sup>, if x = 4, y = 2 => 16
+1. Quad, where x<sup><i>y</i></sup>, if x = 4, <i>y</i> = 2 => 16
 
-2. Matrix, where x<sup><i>y</i></sup>, if x = 4, y = 4 => 256
+2. Matrix, where x<sup><i>y</i></sup>, if x = 4, <i>y</i> = 4 => 256
 
-3. Cluster, where x<sup><i>y</i></sup>, if x = 9, y = 4 => 6561
+3. Cluster, where x<sup><i>y</i></sup>, if x = 9, <i>y</i> = 4 => 6561
 
-4. Array, where x<sup><i>y</i></sup>, if x = j, y = k => m
+4. Array, where x<sup><i>y</i></sup>, if x = j, <i>y</i> = k => m
 
 ## [1.] G<sub><sup>Quad</sup></sub>
 Quad is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. Quad is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. Quad is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. Quad is assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
