@@ -26,7 +26,7 @@ Quad is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. 
 
 Storage function = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Samples.</br>
                               |                                 |</br>
-Storage function = [<b>style equation<b>] × [<b>infinite equation</b>] => Samples.</br>
+Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Samples.</br>
 
 <i>where</i>, <b><i>n</i></b> = 1, 2, 4, 9.
 
