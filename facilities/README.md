@@ -69,4 +69,16 @@ ElseIf <b><i>n</i></b> = 9, Then 6561 × 9 = 59,049 units</br>
 ## [4.] G<sub><sup>Array</sup></sub>
 G<sub><sup>Array</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Array</sup></sub> is a créole style of robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Array</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Array</sup></sub> is built to give capability to read/write and store the molecular data as well as information inside itself. G<sub><sup>Array</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
-If 1, it is — please let me explain. 
+<b>Defined:</b></br>
+Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Molecules.</br>
+Storage function = [<b>x<sup><i>y</i></sup></b>] × [<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>] => Molecules.</br>
+<i>where</i>, <b><i>n</i></b> = 1, 2, 4, 9.
+
+If <b><i>n</i></b> = 1; Then 6561 × 1 = 6,561 units</br>
+ElseIf <b><i>n</i></b> = 2, Then 6561 × 2 = 13,122 units</br>
+ElseIf <b><i>n</i></b> = 4, Then 6561 × 4 = 26,244 units</br>
+ElseIf <b><i>n</i></b> = 9, Then 6561 × 9 = 59,049 units</br>
+
+<b><i>G<sub><sup>Array</sup></sub></b></i> gives minimum 6,561 and maximum 59,049 units of molecules storage. <i>G<sub><sup>Array</sup></sub> is a best possible friend for an advance scientific use, right</i>.
+
+If 1, it is — please let me explain.
