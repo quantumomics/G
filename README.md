@@ -5,4 +5,4 @@ G<sup>®</sup>, acquired the trade name — G.IIMSE, and it's given principle wi
 
 <b>G.IIMSE</b>, stands for G.Intelligent Interactive Molecules Storage Environment and it's world class infrastructure for ignited science.
 
-# G<sub><sup>Style</sup></sub> = G<sub><sup>Quad</sup></sub> / G<sub><sup>Matrix</sup></sub> / G<sub><sup>Cluster</sup></sub> / G<sub><sup>Array</sup></sub>
+# G<sub><sup>Style</sup></sub> = G<sub><sup>Array</sup></sub> / G<sub><sup>Cluster</sup></sub> / G<sub><sup>Matrix</sup></sub> / G<sub><sup>Quad</sup></sub>
