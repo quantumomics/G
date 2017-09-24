@@ -1,5 +1,5 @@
 # G<sup>®</sup> — Facilities
-<b>G<sup>®</sup> — is a molecule storage facility, that build up for read/write and store easily for the future experimental science</b>. G<sup>®</sup> have two class(s), and four style(s) of the personal and scientific storage facilities.
+<b>G<sup>®</sup> — is a molecule storage facility, that build up to read/write and store easily for the future experimental science</b>. G<sup>®</sup> have two class(s), and four style(s) for the personal and scientific storage facilities.
 
 <b>Define Equation:</b> In G<sup>®</sup>, the equation is constrained to absolute, itself.
 
