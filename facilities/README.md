@@ -67,4 +67,4 @@ ElseIf <b><i>n</i></b> = 9, Then 6561 × 9 = 59,049 units</br>
 ## [4.] G<sub><sup>Array</sup></sub>
 G<sub><sup>Array</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Array</sup></sub> is a créole style of robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Array</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Array</sup></sub> is built to give capability to read/write and store the molecular data as well as information inside itself. G<sub><sup>Array</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
-If 1, it is — please let me explain.
+If 1, it is — please let me explain. 
