@@ -11,4 +11,4 @@
 
 # G<sup><sub>Quad</sub></sup>
 
-# <sup>13</sup>C<sub><sup>π</sup></sub>
+# <sup>13</sup>C<sup>√</sup><sub><sup>π</sup></sub>
