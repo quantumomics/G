@@ -5,7 +5,7 @@ The whole grammar of the G<sup>®</sup> is defined using a <i>Define function</i
 
 <b>Define function:</b> In G<sup>®</sup>, the function is constrained to absolute, itself.
 
-## G<sub><sup>Style</sup></sub> = x<sup><i>y</i></sup>
+## G<sub><sup>Style</sup></sub> = style equation (x<sup><i>y</i></sup>)
 
 - Class
   - Robotics
