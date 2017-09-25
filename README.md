@@ -6,3 +6,7 @@ G<sup>®</sup>, acquired the trade name — G.IIMSE, and it's given principle wi
 <b>G.IIMSE</b>, stands for G.Intelligent Interactive Molecules Storage Environment and it's world class infrastructure for ignited science.
 
 # G<sub><sup>Style</sup></sub> = G<sub><sup>Arräy</sup></sub> / G<sub><sup>Clustër</sup></sub> / G<sub><sup>Mâtrix</sup></sub> / G<sub><sup>Qûad</sup></sub>
+
+Ӝ — Prabhat Kumar,</br>
+<b>№ 4°9</b>, Ignited Engine,</br>Neurone Avenue,</br>
+<b>√•</b> Circuit Nearly,</br>※ Earth.
