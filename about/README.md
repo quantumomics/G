@@ -1,0 +1,2 @@
+# About
+G is a greatest invention in the era of scientific instrumentation and genius engineering, equipped with robotics as a ignited intelligent machine — especially designed, crafted, moulded and created for the scientists by the scientists and the neurones are programmed by it's father to provide the capability of carrying out a complex series of actions to do the storage of molecules, automatically.
