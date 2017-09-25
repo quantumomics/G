@@ -5,7 +5,7 @@ The whole grammar of the G<sup>®</sup> is defined using a <i>Define function</i
 
 <b>Define function:</b> In G<sup>®</sup>, the function is constrained to absolute, itself.
 
-Class of G<sup>®</sup> is defined as — If there is a "(ˆ) circumflex" as a mark is a robotics based, and If there is a "(¨) diaeresis" as a mark is a Non-Robotics.
+The Class of G<sup>®</sup>, is defined as — If there is a "(ˆ) circumflex" as a mark is a non–robotics based and If there is a "(¨) diaeresis" as a mark is a non-robotics based intelligent interactive molecule storage environment.
 
 # G<sub><sup>Style</sup></sub> = style equation (x<sup><i>y</i></sup>)
 
