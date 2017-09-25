@@ -17,7 +17,7 @@ The whole grammar of the G<sup>®</sup> is defined using a <i>Define function</i
 
 2. G<sub><sup>Matrix</sup></sub>, where x<sup><i>y</i></sup>, if x = 4, <i>y</i> = 4 => 256
 
-3. G<sub><sup>Cluster</sup></sub>, where x<sup><i>y</i></sup>, if x = 9, <i>y</i> = 4 => 6561
+3. G<sub><sup>Clustër</sup></sub>, where x<sup><i>y</i></sup>, if x = 9, <i>y</i> = 4 => 6561
 
 4. G<sub><sup>Arräy</sup></sub>, where x<sup><i>y</i></sup>, if x = j, <i>y</i> = k => m
 
@@ -51,8 +51,8 @@ ElseIf <b><i>n</i></b> = 9, Then 256 × 9 = 2304 units</br>
 
 <b><i>G<sub><sup>Matrix</sup></sub></b></i> gives minimum 256 and maximum 2,304 units of molecules storage. <i>G<sub><sup>Matrix</sup></sub> is a best possible friend for a personal and scientific use, right</i>.
 
-## [3.] G<sub><sup>Cluster</sup></sub>
-G<sub><sup>Cluster</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Cluster</sup></sub> is a pidgin style of robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Cluster</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Cluster</sup></sub> is built to give capability to read/write and store the molecular data as well as information inside itself. G<sub><sup>Cluster</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
+## [3.] G<sub><sup>Clustër</sup></sub>
+G<sub><sup>Clustër</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Clustër</sup></sub> is a pidgin style of robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Clustër</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Clustër</sup></sub> is built to give capability to read/write and store the molecular data as well as information inside itself. G<sub><sup>Clustër</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
 <b>Defined:</b></br>
 Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Molecules.</br>
@@ -64,7 +64,7 @@ ElseIf <b><i>n</i></b> = 2, Then 6561 × 2 = 13,122 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 6561 × 4 = 26,244 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 6561 × 9 = 59,049 units</br>
 
-<b><i>G<sub><sup>Cluster</sup></sub></b></i> gives minimum 6,561 and maximum 59,049 units of molecules storage. <i>G<sub><sup>Cluster</sup></sub> is a best possible friend for an advance scientific use, right</i>.
+<b><i>G<sub><sup>Clustër</sup></sub></b></i> gives minimum 6,561 and maximum 59,049 units of molecules storage. <i>G<sub><sup>Clustër</sup></sub> is a best possible friend for an advance scientific use, right</i>.
 
 ## [4.] G<sub><sup>Arräy</sup></sub>
 G<sub><sup>Arräy</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Arräy</sup></sub> is a créole style of robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Arräy</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Arräy</sup></sub> is built to give capability to read/write and store the molecular data as well as information inside itself. G<sub><sup>Arräy</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
