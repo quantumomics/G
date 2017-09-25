@@ -1,4 +1,4 @@
-# G<sup>®</sup>
+# G<sup>®</sup> [![NPM](https://img.shields.io/badge/npm-status-green.svg)](https://www.npmjs.com/~quantumomics)
 <b>G<sup>®</sup> — <i>A Next Generation Molecular Storage Environment</i></b>.
 
 G<sup>®</sup>, acquired the trade name — G.IIMSE, and it's given principle with the associated philosophy, finally invented and coined by Prabhat Kumar.
