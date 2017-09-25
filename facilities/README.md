@@ -13,7 +13,7 @@ The whole grammar of the G<sup>®</sup> is defined using a <i>Define function</i
  
 - Style — G<sup>®</sup> have four style of design, to provide smart way to build the perfect future of experimental science.
 
-1. G<sub><sup>Quad</sup></sub>, where x<sup><i>y</i></sup>, if x = 4, <i>y</i> = 2 => 16
+1. G<sub><sup>Qûad</sup></sub>, where x<sup><i>y</i></sup>, if x = 4, <i>y</i> = 2 => 16
 
 2. G<sub><sup>Mâtrix</sup></sub>, where x<sup><i>y</i></sup>, if x = 4, <i>y</i> = 4 => 256
 
@@ -21,8 +21,8 @@ The whole grammar of the G<sup>®</sup> is defined using a <i>Define function</i
 
 4. G<sub><sup>Arräy</sup></sub>, where x<sup><i>y</i></sup>, if x = j, <i>y</i> = k => m
 
-## [1.] G<sub><sup>Quad</sup></sub>
-G<sub><sup>Quad</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Quad</sup></sub> is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Quad</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Quad</sup></sub> is built to give capability to read/write and store the molecular data as well as information inside itself. G<sub><sup>Quad</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
+## [1.] G<sub><sup>Qûad</sup></sub>
+G<sub><sup>Qûad</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Qûad</sup></sub> is a base style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Qûad</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Qûad</sup></sub> is built to give capability to read/write and store the molecular data as well as information inside itself. G<sub><sup>Qûad</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
 
 <b>Defined:</b></br>
 Storage function = [<b>style equation</b>] × [<b>infinite equation</b>] => Molecules.</br>
@@ -34,7 +34,7 @@ ElseIf <b><i>n</i></b> = 2, Then 16 × 2 = 32 units</br>
 ElseIf <b><i>n</i></b> = 4, Then 16 × 4 = 64 units</br>
 ElseIf <b><i>n</i></b> = 9, Then 16 × 9 = 144 units</br>
 
-<b><i>G<sub><sup>Quad</sup></sub></b></i> gives minimum 16 and maximum 144 units of molecules storage. <i>G<sub><sup>Quad</sup></sub> is a best possible friend for a personal use, right</i>.
+<b><i>G<sub><sup>Qûad</sup></sub></b></i> gives minimum 16 and maximum 144 units of molecules storage. <i>G<sub><sup>Qûad</sup></sub> is a best possible friend for a personal use, right</i>.
 
 ## [2.] G<sub><sup>Mâtrix</sup></sub>
 G<sub><sup>Mâtrix</sup></sub> is a spun-off engineering of the [Sequømics](http://sequomics.com/), Inc. and to deal with operational molecular sciences. G<sub><sup>Mâtrix</sup></sub> is a argot style of non-robotics based molecule storage facility, equipped with (<b>∞<sup>Ψ.<b><i>n</i></b></sup></b>) intelligent molecular storage environment. G<sub><sup>Mâtrix</sup></sub> is designed with experience to give a smart way to reduce the time of doing the fascinating research, in the field of experimental sciences. G<sub><sup>Mâtrix</sup></sub> is built to give capability to read/write and store the molecular data as well as information inside itself. G<sub><sup>Mâtrix</sup></sub> is an assembled for the personal use, the reason is very ignited simple — to do the most advanced research at the workbench.
