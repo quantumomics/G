@@ -1,5 +1,5 @@
 # G<sup>®</sup> — Facilities
-<b>G<sup>®</sup> — is a molecule storage facility, that build up to read/write and store easily for the future generations of experimental science</b>. G<sup>®</sup> have two class(s), and four style(s) for the personal and scientific molecule storage facilities.
+<b>G<sup>®</sup> — is a molecule storage facility, that build up to read/write and store easily for the future generations of experimental science</b>. G<sup>®</sup> have two class(s) and four style(s) for the personal and scientific, molecule storage facilities.
 
 The whole grammar of the G<sup>®</sup> is defined using a <i>Define function</i>, to know absolutely the principle governing, to be the outstanding instrument of the world.
 
