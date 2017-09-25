@@ -5,7 +5,7 @@
  * ----
  *  G®
  * ----
- * G® — A Next Generation Molecular Storage Environment by Quantumomics, Inc.
+ * G® — A Next Generation Molecular Storage Environment by Quantumømics, Inc.
  * ___________________________________________________________________________
  *
  * Grunt, http://gruntjs.com/ — The JavaScript Task Runner.
@@ -15,11 +15,11 @@
  * Architectuur en Code handgemaakt door Prabhat Kumar.
  * @author    : Prabhat Kumar [http://prabhatkumar.org/].
  * @copyright : Prabhat Kumar [http://prabhatkumar.org/].
- * @copyright : Quantumømics, Inc.
- * @copyright : Sequømics Corporation [http://sequomics.com/].
+ * @copyright : Quantumømics, Inc. [http://quantumomics.com/].
+ * @copyright : Sequømics, Inc. [http://sequomics.com/].
  * ___________________________________________________________________________
  *
- * @date      : 25-Sept-2017
+ * @date      : 04-Sept-2018
  * @license   : Apache, version 2.0
  * @require   : Node.js®
  * @require   : NPM
