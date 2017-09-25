@@ -6,3 +6,5 @@ It is an autonomous — designed and fabricated to do an intelligent interventio
 G<b>®</b> is manufactured to do the storage and guided repetitive tasks, when needed by the experimental scientists, anytime — duration of storage is very little and speed is ultrafast, because it's just not a robot — it's an Intelligent Interactive Molecule Storage Environment (IIMSE).
 
 G<b>®</b> can be armed with it's own sister construct <b>∞</b>.IIRE — the available style (<b>∞<sup>Ψ.<i>n</i></sup></b>, where <i>n</i> = 1, 2, 4, 9) is totally dedicated to storing the molecules.
+
+The possibility to store the <b>∞<sup>Ψ.<i>n</i></sup></b> is superb, with the factory fitted and compiled an intelligence written by algorithmist, engineers, instrumentalists, mathematicians and an experimental scientists to perform each and every required operations to handle it out.
