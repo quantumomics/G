@@ -1,6 +1,6 @@
 {
   "name": "g.iimse",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "G® — A Next Generation Molecular Storage Environment from Quantumømics, Inc.",
   "main": "index.js",
   "repository": {
@@ -25,7 +25,7 @@
       "url": "http://prabhatkumar.org/"
     },
     {
-      "name": "Sequømics",
+      "name": "Sequømics, Inc.",
       "email": "sequomics@gmail.com",
       "url": "http://sequomics.com/"
     }
