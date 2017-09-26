@@ -76,3 +76,32 @@ var build = {
 // All Grunt Operations Defined... |------------------------------------------| 24/Dec/2016 | SEED™ — Skövde.
 //                           Copyright © 2016, Prabhat Kumar, All rights reserved.
 // ----------------------------------------------------------------------------------------------------------
+
+module.exports = function(grunt) {
+  
+  // Force use of Unix newlines.
+  // http://gruntjs.com/api/grunt.util
+  grunt.util.linefeed = '\n';
+  
+  // 1. time-grunt ——> $ npm install time-grunt --save-dev
+  // Display the elapsed execution time of grunt tasks.
+  require('time-grunt')(grunt);
+  
+  // Utility to load the different option files,
+  // based on their names — @using `glob`.
+  function loadConfig(path) {
+    var object = {};
+    var key;
+    glob.sync('*', {
+      cwd: path
+    }).forEach(function(option) {
+      key = option.replace(/\.js$/,'');
+      object[key] = require(path + option);
+    });
+    return object;
+  }
+  
+  /// Initial Configurations.
+  var config = {
+    pkg: grunt.file.readJSON('./package.json')
+  };
