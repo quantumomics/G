@@ -34,3 +34,21 @@
  */
 
 // global require: true
+// ‡ Alias Task(s) to be defined.
+// №: 
+module.exports = function(grunt) {
+  
+  // Invoking strict mode.
+  "use strict";
+  
+  // To load required Node and NPM module.
+  // -------------------------------------
+  var os       = require('os');
+  var fs       = require('fs');
+  var chalk    = require('chalk');
+  
+  // To get build system(s) information.
+  ///-----------------------------------
+  var seed     = JSON.parse(fs.readFileSync('./seed.json', {
+    encoding: "utf8"
+  }));
