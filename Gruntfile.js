@@ -105,3 +105,27 @@ module.exports = function(grunt) {
   var config = {
     pkg: grunt.file.readJSON('./package.json')
   };
+  
+  /// Loading Externally-Defined Tasks.
+  grunt.loadTasks('tasks');
+  
+  /// Loading all the tasks options in `tasks/options`,
+  /// based on the name:
+  /// \---------------- coffee.js => coffee{}
+  grunt.util._.extend(config, loadConfig('./tasks/options/'));
+  
+  // Project configuration for -//G®//- Build.
+  grunt.initConfig(config);
+  
+  // 2. load-grunt-tasks ——> $ npm install load-grunt-tasks --save-dev
+  // Load multiple grunt tasks using the globbing patterns.
+  require('load-grunt-tasks')(grunt, {
+    scope: [
+      'dependencies',
+      'devDependencies',
+      'peerDependencies',
+      'optionalDependencies'
+    ],
+    // Traverse up the file hierarchy looking for dependencies like `require()`.
+    requireResolution: true
+  });
