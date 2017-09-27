@@ -1,4 +1,4 @@
-SI. No.,Name,Class,Style,Use,Minimum units,Maximum units
+SI. No.,Name,Class,Style,Use,Minimum Units,Maximum Units
 1,G-Quad,Non-Robotics,Quad,Personal,16,144
 2,G-Matrix,Non-Robotics,Matrix,Personal,256,2304
 3,G-Cluster,Robotics,Cluster,Scientific,6561,59049
